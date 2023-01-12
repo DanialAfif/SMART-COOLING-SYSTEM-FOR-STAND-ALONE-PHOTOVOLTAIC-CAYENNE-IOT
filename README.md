@@ -15,6 +15,7 @@ Overall, the project's goal is to design an efficient cooling system that can be
 ![image](https://user-images.githubusercontent.com/101761256/212000288-e14a063c-6595-46b8-84d4-81418b71179e.png)
 
 DATA ANALYSIS
+
 The calculation of the efficiency of solar panel were based on the collected data by 5 minutes. All the data have been put in Appendix area which consist all the information relates. Noted that the average value calculated by voltage and current represent as open-circuit voltage, Voc and short-circuit current values, Isc.Vmp and Imp values also default value by the solar panel datasheet given.
 
 ![image](https://user-images.githubusercontent.com/101761256/212000618-5981904c-22bf-40bb-8f3b-6b18f6fc74e4.png)
