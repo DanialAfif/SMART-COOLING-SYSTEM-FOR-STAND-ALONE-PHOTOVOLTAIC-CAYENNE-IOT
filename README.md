@@ -47,6 +47,11 @@ Basically, the ratio of energy output from the solar cell to input energy from t
 From the table above, after calculated both average values for voltage and current for period of 5 minutes, the values related to both is 21.7 V for after cooling system and 21.32 V before cooling system. Next, 209.49 mA represent as average current before the cooling system while 494.662 mA refers to average current after the cooling system. After that, both are used to calculate the fill factor. Fill factor is a parameter that, when combined with Voc and Isc, defines the maximum power a solar cell can produce. The value of calculated after cooling system is much more lower than the value of fill factor before cooling system with 1.84 and 4.4 respectively. Therefore, using the related formula of efficiency for solar panel in data analysis, it can be seen that there is an increase of efficiency after cooling system applied. Before cooling system apply, the efficiency calculated around 12.07 % while after cooling system apply, the efficiency increase to 12.14 %. These can be related to the performance of the solar panel. The higher efficiency of the solar panel, the better performance can be produced for solar panel to absorb the power from the sunlight. This hypothesis can be related to the previous example data which can be seen that there is an increment of 0.38 V and 285.172 mA of average values. Therefore, the power output of the solar panel also will be increase by these improvement. Noticed that all this values are denoted in a short period of time, five minutes, if the project are using for collecting the data for a long period such as a month, two month and others, the efficiency values would be increase a lot.
 
 Credit :
-DANIAL 'AFIF
-MUHAMMAD HARITH
+DANIAL 'AFIF,
+MUHAMMAD HARITH,
 MUHAMMAD FARIDZUAN
+
+Github Link: 
+https://github.com/DanialAfif
+https://github.com/Harith3439
+
