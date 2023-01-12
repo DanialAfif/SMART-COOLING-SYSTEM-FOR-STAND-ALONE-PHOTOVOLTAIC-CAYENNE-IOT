@@ -51,7 +51,8 @@ DANIAL 'AFIF,
 MUHAMMAD HARITH,
 MUHAMMAD FARIDZUAN
 
+For more details Contact:
 Github Link: 
-https://github.com/DanialAfif
+https://github.com/DanialAfif ,
 https://github.com/Harith3439
 
