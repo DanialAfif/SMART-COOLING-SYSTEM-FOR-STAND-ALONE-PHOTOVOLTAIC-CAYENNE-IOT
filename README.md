@@ -9,4 +9,7 @@ project aims to design a smart cooling system for photovoltaic solar panels to i
 Additionally, the project will investigate the amount of cooling water required to achieve the highest photovoltaic efficiency in the solar cell. This will include studying the relationship between the cooling water flow rate, temperature and the efficiency of the solar cell. By understanding how much cooling water is required for optimal performance, the project aims to improve the overall efficiency of the solar panel system and increase the overall quantity of power produced.
 
 Overall, the project's goal is to design an efficient cooling system that can be integrated into existing solar panel systems to improve their performance and longevity. The data collected through the IoT system will be used to validate the effectiveness of the cooling system and to inform future developments in solar energy technology.
+
+
+
 ![image](https://user-images.githubusercontent.com/101761256/212000288-e14a063c-6595-46b8-84d4-81418b71179e.png)
